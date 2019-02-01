@@ -5,7 +5,7 @@ The recent announcement of TPU availability on Colab made me wonder the amount o
 
 |Notebook|Training Time (seconds)|
 |--------|-----------------------|
-|<a href="https://github.com/katnoria/cifar10-native-vs-colab/blob/master/CIFAR10_Keras_GPU.ipynb">Local GPU (1080Ti)</a>| 32|
+|<a href="https://github.com/katnoria/cifar10-native-vs-colab/blob/master/CIFAR10_Keras_GPU.ipynb">Local GPU (1080Ti)</a> or [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katnoria/cifar10-native-vs-colab/master?filepath=CIFAR10_Keras_GPU.ipynb)| 32|
 |<a href="https://colab.research.google.com/drive/1UCMQJDpJ5hEiUEQ4qMAj0UBiYQ6n8Yg-">Colab GPU (Tesla K80)</a>| 86|
 |<a href="https://colab.research.google.com/drive/1rP91Q5L1mPOVt7FcKkqFJSIMZrBtDawO">Colab TPU</a>| 136|
 
